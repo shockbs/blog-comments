@@ -1,0 +1,9 @@
+{
+  "origins": [
+    "https://shockbs.pro"
+  ],
+  "originsRegex": [
+    "^https:\/\/shockbs\.pro\/.*$"
+  ],
+  "defaultCommentOrder": "oldest"
+}
